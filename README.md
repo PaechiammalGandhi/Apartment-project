@@ -23,6 +23,7 @@ Booking parking slots.
 Excel database for apartment details.
 
 **Key Features**:-
+
 1.User-Friendly Interface: Intuitive GUI for easy navigation.
 Accessible to residents and management.
 
