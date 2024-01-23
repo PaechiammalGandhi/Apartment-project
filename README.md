@@ -21,3 +21,23 @@ Updating records based on incoming and outgoing.
 Staff/ Maid id card details.
 Booking parking slots.
 Excel database for apartment details.
+
+**Key Features**:-
+1.User-Friendly Interface: Intuitive GUI for easy navigation.
+Accessible to residents and management.
+
+2.Occupancy Management: Tracks occupied and unoccupied houses.
+Generates block-wise occupancy lists.
+
+3.Occupant Details: Residents view occupant details by flat number.
+Includes contact info, emergency contacts, lease duration.
+
+4.Availability Checker: Prospective residents check house availability based on BHKs.
+
+5.New Occupancy Registration: Management updates new occupancies easily.
+Adds occupant names, contacts, and lease info.
+
+6.Monthly Maintenance Tracking: Residents view charges and payment history.
+Sends payment reminders.
+
+7.User Authentication: Ensures secure access.
